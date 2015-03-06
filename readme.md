@@ -14,13 +14,13 @@ From Keynote we'll export a movie file, and from that we'll make a GIF, both per
 
 So many of my projects lately don't have **just one** mockup or design, but a series of smaller, flexible deliverables. Style guides and responsive states and animation direction and documentation have taken the place of the PSD. Unexpectedly (to me, at least), Keynote has turned out to be a small, but important, soldier in that battle.
 
-In this lesson we'll look at animating a simple card-style menu. It enters from the bottom of the screen and leaves through the top, which is a perfect example of a slightly peculiar animation you might want to document before build. Let's go!
+In this lesson we'll look at animating a simple card-style menu. Our menu enters from the bottom of the screen and leaves through the top, which is a perfect example of a slightly peculiar animation you might want to document before build. Let's go!
 
 ### Step 1
 
 ![](step-1.png)
 
-To create our animation, we'll need all the individual pieces from our design saved out as PNGs. Sketch makes this pretty simple, so we'll start by breaking our design into pieces. Since we're animating an off-canvas menu, we'll need to save our main app screen, the menu tray, and the colored overlay.
+To create our animation, we'll need all the individual pieces from our design saved out as PNGs. Sketch makes this pretty simple, so we'll start by breaking our design into pieces. Since we're animating an off-canvas menu, we'll need to save our main app screen, the menu card, and the colored overlay.
 
 ### Step 2
 
@@ -32,13 +32,13 @@ When marking things for export, we've got a few options: artboards, groups and s
 
 ![](step-3.png)
 
-We're also going to need the menu tray and the colored overlay, which we can export by the group(s) that contain them. Simply select each group, then click the plus icon (+) in "Mark Exportable" too add them to the party. Since Sketch gives us the option, we'll want to export all these images as 2X PNGs. The larger export size will help keep things crisp when we build and export our animation in Keynote.
+We're also going to need the menu card and the colored overlay, which we can export by the group(s) that contain them. Simply select each group, then click the plus icon (+) in "Mark Exportable" to add them to the party. Since Sketch gives us the option, we'll want to export all these images as 2X PNGs. The larger export size will help keep things crisp when we build and export our animation in Keynote.
 
 ### Step 4
 
 ![](step-4.png)
 
-To export all our PNGs at once, we're going to use the Export tool in the top right of the Sketch window. Exporting all assets at once is a great way to keep everything in sync as you making changes during the design process. Click Export, make sure each asset is selected, then save everything to a folder.
+To export all our PNGs at once, we're going to use the Export tool in the top right of the Sketch window. Exporting all assets at once is a great way to keep everything in sync as you make changes during the design process. Click Export, make sure each asset is selected, then save everything to a folder.
 
 ### Step 5
 
@@ -56,7 +56,7 @@ Our goal here is to create two slides, basically a "before" and "after". The gam
 
 ![](step-7.png)
 
-With all images still selected, hop on over to the "Arrange" section of the Inspector (right sidebar in Keynote). There we need to hit the "Original Size" button to make sure all our image start at a matching ratio (when importing, Keynote sometimes sizes things relative to the slide).
+With all images still selected, hop on over to the "Arrange" section of the Inspector (right sidebar in Keynote). There we need to hit the "Original Size" button to make sure all our images start at a matching ratio (when importing, Keynote sometimes sizes things relative to the slide).
 
 ### Step 8
 
@@ -64,7 +64,7 @@ With all images still selected, hop on over to the "Arrange" section of the Insp
 
 Since our "after" slide has more pieces in play, let's actually build that one first. With the images at their original size, assemble your original design, like the pieces of a puzzle.
 
-Make sure things are layered in the correct order (main app screen on bottom, colored overlay in the middle, menu card on top) and aligned properly. Once it looks correct, group everything and size it down to fit within the slide. After sizing, ungroup things.
+Make sure things are layered in the correct order (main app screen on bottom, colored overlay in the middle, menu card on top) and aligned properly. Once it looks correct, group everything and size it down to fit within the slide. After sizing, we can ungroup things.
 
 ### Step 9
 
@@ -76,13 +76,13 @@ To make the "before" slide, let's duplicate our current slide and make some simp
 
 ![](step-10.png)
 
-To enable the transition we're after, select both slides in Keynote's left pane, then choose "Magic Move" from the transition palette. Now would also be a good time to put our "before" and "after" slides in order, if you haven't already done so. First up would be the plain app screen, followed by the slide with the open menu tray visible.
+To enable the transition we're after, select both slides in Keynote's left pane, then choose "Magic Move" from the transition palette. Now would also be a good time to put our "before" and "after" slides in order, if you haven't already done so. First up would be the plain app screen, followed by the slide with the open menu card visible.
 
 ### Step 11
 
 ![](step-11.png)
 
-Magic Move works by easing the difference it finds between the slides. Since the colored overlay doesn't exists on the "before" slide but **does** on the "after", Keynote will fade the colored overlay into existence, at whatever speed we want to set. Similarly, Magic Move will slide the menu tray into view from it's original position, off-canvas to the left of the app screen.
+Magic Move works by easing the difference it finds between the slides. Since the colored overlay doesn't exists on the "before" slide but **does** on the "after", Keynote will fade the colored overlay into existence, at whatever speed we want to set. Similarly, Magic Move will slide the menu card into view from it's original position, off-canvas from the bottom of the app screen.
 
 ### Step 12
 
@@ -112,7 +112,7 @@ With our animation working smoothly, we can export an M4V file to show it off. H
 
 ![](step-16.png)
 
-Open the MOV and view your animation. If you'd like, you could stop now and share this MOV with you team (or developer). If you're the showy type, you might want to consider...
+Open the M4V and view your animation. If you'd like, you could stop now and share this M4V with you team (or developer). If you're the showy type, you might want to consider...
 
 ### Step 17
 
@@ -124,7 +124,7 @@ Making a GIF, probably the easiest way to share this thing online. To get starte
 
 ![](step-18.png)
 
-Enter the "Save for Web" dialog to export your GIF. Make sure you set the repeat to "Forever". Try restricting colors to reduce the file size, but really anything under a couple MB here would be considered normal. File-size-wise, the M4V may well be smaller, but there's always something special about a GIF.
+Enter the "Save for Web" dialog to export your GIF. Make sure you set the repeat to "Forever". You can try restricting colors to reduce the file size, but really anything under a couple MB here would be considered normal. File-size-wise, the M4V may well be smaller, but there's always something special about a GIF.
 
 ### Step 19
 
