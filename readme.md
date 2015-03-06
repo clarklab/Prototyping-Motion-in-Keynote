@@ -82,7 +82,7 @@ To enable the transition we're after, select both slides in Keynote's left pane,
 
 ![](step-11.png)
 
-Magic Move works by easing the difference it finds between the slides. Since the colored overlay doesn't exists on the "before" slide but **does** on the "after", Keynote will fade the colored overlay into existence, at whatever speed we want to set. Similarly, Magic Move will slide the menu card into view from it's original position, off-canvas from the bottom of the app screen.
+Magic Move works by easing the difference it finds between the slides. Since the colored overlay is set to 0% opacity on the "before" slide but 100% on the "after", Keynote will fade the colored overlay into existence, at whatever speed we want to set. Similarly, Magic Move will slide the menu card into view from its original position, off-canvas from the bottom of the app screen.
 
 ### Step 12
 
