@@ -4,13 +4,13 @@ Simple animations are a great way to add life to our products, but mocking them 
 ## Introduction
 With all the modern ways to prototype motion for the web and mobile, sometimes things can get a bit overwhelming. Framer this and Origami that, and soon you're spending more time coding your animation than designing it. 
 
-Don't get me wrong, I love those tools, but sometimes a simple animation requires a simple tool. Enter Keynote, a presentation app most of us already have on our machine (assuming you're on OSX). For one-state interactions, like menus opening and closing, modals appearing and disappearing, loading and displaying content— Keynote is king.
+Don't get me wrong, I love those tools, but sometimes a simple animation requires a simple tool. Here comes Keynote to the rescue, a presentation app most of us already have on our machine (assuming you're on OSX). For one-state interactions, like menus opening and closing, modals appearing and disappearing, loading and displaying content— Keynote is king.
 
 Keynote has a set of simple, visual tools for building animation (normally for Powerpoint-like presentations). We're going to use these transitions, between slides, to animate our interface. While I use Keynote for a heck of a lot more, today we're going to look at Magic Move, a simple "animate the difference" transition that's handy for just about anything.
 
 From Keynote we'll export a movie file, and from that we'll make a GIF, both perfect for sharing your animation with the team, your developer, or Dribbble.
 
-So many of my projects lately don't have **just one** mockup or design, but a series of smaller, flexible deliverables. Style guides and responsive states and animation direction and documentation have taken the place of the PSD. Unexpectedly (to me, at least), Keynote has turned out to be a small, but important, step in that direction.
+So many of my projects lately don't have **just one** mockup or design, but a series of smaller, flexible deliverables. Style guides and responsive states and animation direction and documentation have taken the place of the PSD. Unexpectedly (to me, at least), Keynote has turned out to be a small, but important, soldier in that battle.
 
 In this lesson we'll look at animating a simple card-style menu. It enters from the bottom of the screen and leaves through the top, which is a perfect example of a slightly peculiar animation you might want to document before build. Let's go!
 
