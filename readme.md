@@ -1,6 +1,8 @@
 # Prototyping Motion with Keynote
 Simple animations are a great way to add life to our products, but mocking them up can be more complex than it needs to be. Enter Keynote.
 
+![](step-14.gif)
+
 ## Introduction
 With all the modern ways to prototype motion for the web and mobile, sometimes things can get a bit overwhelming. Framer this and Origami that, and soon you're spending more time coding your animation than designing it. 
 
