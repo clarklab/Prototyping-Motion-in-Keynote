@@ -147,6 +147,8 @@ Coming soon...
 # Files
 - [Sketch File](weather-sample.sketch)
 - [Keynote File](weather-sample.key)
+- GIF:
+![](step-14.gif)
 
 # Credit
 
