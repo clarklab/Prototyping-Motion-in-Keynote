@@ -133,16 +133,16 @@ Enter the "Save for Web" dialog to export your GIF. Make sure you set the repeat
 You're done! Email or Dribbble or Behance this bad boy out into the world and rest assured your design will be communicated with the proper motion and direction you've been seeing in your head for weeks now.
 
 ### Tip 1
-Coming soon...
+Sketch makes keeping multiple views inside a single file a snap. Once you've got your main screen finished, simply duplicate the artboard and start making changes (open menus, modals, etc). You can even create different responsive sizes (mobile, tablet, desktop).
 
 ### Tip 2
-Coming soon...
+Aside from "Magic Move", you can utilize any of the transitions and build effects Keynote has to offer. You can stage a step-after-step animtation to simulate some fairly complex animations, once you get the hang of things.
 
 ### Tip 3
-Coming soon...
+When making a matte around the mockup screens, sometimes I like to include phone hardware or broser chrome, just to drive home the effect. You can add either in Photoshop or Keynote, just overlay the framing on top of your animation. 
 
 ### Tip 4
-Coming soon...
+A complete project might include dozens of interactions just like this one. Mocking up as many as you can will go a long way in making things smoother for everyone involved on the build. Document, document, document!
 
 # Files
 - [Sketch File](weather-sample.sketch)
