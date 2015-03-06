@@ -145,8 +145,8 @@ Coming soon...
 Coming soon...
 
 # Files
-- [Sketch File](#)
-- [Keynote File](#)
+- [Sketch File](weather-sample.sketch)
+- [Keynote File](weather-sample.key)
 
 # Credit
 
