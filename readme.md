@@ -112,7 +112,7 @@ With our animation working smoothly, we can export an M4V file to show it off. H
 
 ![](step-16.png)
 
-Open the M4V and view your animation. If you'd like, you could stop now and share this M4V with you team (or developer). If you're the showy type, you might want to consider...
+Open the M4V and view your animation. If you'd like, you could stop now and share this M4V with your team (or developer). If you're the showy type, you might want to consider...
 
 ### Step 17
 
